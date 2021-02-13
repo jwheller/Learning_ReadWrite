@@ -1,0 +1,9 @@
+[2/12/2021 11:23:27 PM] Application Loaded
+[2/12/2021 11:23:32 PM] Button Pressed
+[2/12/2021 11:23:33 PM] Button Pressed
+[2/12/2021 11:23:33 PM] Spacebar Pressed
+[2/12/2021 11:23:34 PM] Button Pressed
+[2/12/2021 11:23:35 PM] Button Pressed
+[2/12/2021 11:23:35 PM] Spacebar Pressed
+[2/12/2021 11:23:37 PM] Button Pressed
+[2/12/2021 11:23:39 PM] Application Quit
